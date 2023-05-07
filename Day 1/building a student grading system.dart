@@ -33,7 +33,7 @@ Studentgreadt(String  Name, int Score)
 
 }
 
-main(List<String> args) {
+main() {
   Studentgreadt("Nishanth",100);
   Studentgreadt("Nirob", 45);
   Studentgreadt("Rakib", 545);
